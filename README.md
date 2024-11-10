@@ -27,5 +27,5 @@ Table of Contents
         Multiplication
         Circular Convolution
         Parsevals Relation
-   Overlap add and Overlap save method
-   Implementation of Filter
+    Overlap add and Overlap save method
+    Implementation of Filter
